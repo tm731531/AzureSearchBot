@@ -1,0 +1,10 @@
+ <!-- update these with your BotId, Microsoft App Id and your Microsoft App Password-->
+    <add key="BotId" value="Bot Name" />
+    <add key="MicrosoftAppId" value="Bot App ID" />
+    <add key="MicrosoftAppPassword" value="Bot App Password" />
+    <add key="SearchName" value="Azure Search Name" />
+    <add key="IndexName" value="Azure Search Index" />
+    <add key="SearchKey" value="Azure Search Key" />
+  
+It is must to add these info for config 
+you must get these setting in Azure search & Bot Framework at first
